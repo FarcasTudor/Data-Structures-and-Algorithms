@@ -1,0 +1,34 @@
+﻿  main.cpp
+  VectorDinamicCPP.vcxproj -> C:\Users\Tudor\source\repos\VectorDinamicCPP\x64\Debug\VectorDinamicCPP.exe
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(70): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(68): warning C26432: If you define or delete any default operation in the type 'class VectorDinamic<class Pet>', define or delete them all (c.21).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(62): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(60): warning C26455: Default constructor should not throw. Declare it 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(86): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(113): warning C26481: Don't use pointer arithmetic. Use span instead (bounds.1).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(111): warning C26440: Function 'VectorDinamic<Pet>::get' can be declared 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(123): warning C26440: Function 'VectorDinamic<Pet>::size' can be declared 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(162): warning C26440: Function 'VectorDinamic<Pet>::begin' can be declared 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(168): warning C26440: Function 'VectorDinamic<Pet>::end' can be declared 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(199): warning C26447: The function is declared 'noexcept' but calls function 'element()' which may throw exceptions (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(203): warning C26440: Function 'IteratorVectorTudor<Pet>::operator++' can be declared 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(50): warning C26496: The variable 'newCapacity' does not change after construction, mark it as const (con.4).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(51): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(51): warning C26400: Do not assign the result of an allocation or a function call with an owner<T> return value to a raw pointer, use owner<T> instead (i.11).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(187): warning C26481: Don't use pointer arithmetic. Use span instead (bounds.1).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinSmartPointer.h(185): warning C26440: Function 'IteratorVectorTudor<Pet>::element' can be declared 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(8): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(8): warning C26455: Default constructor should not throw. Declare it 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(17): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(37): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(60): warning C26439: This kind of function should not throw. Declare it 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(81): warning C26439: This kind of function should not throw. Declare it 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(105): warning C26481: Don't use pointer arithmetic. Use span instead (bounds.1).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(104): warning C26440: Function 'VectDinNewDelete::get' can be declared 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(121): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(121): warning C26400: Do not assign the result of an allocation or a function call with an owner<T> return value to a raw pointer, use owner<T> instead (i.11).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(130): warning C26440: Function 'VectDinNewDelete::begin' can be declared 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(135): warning C26440: Function 'VectDinNewDelete::end' can be declared 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(148): warning C26481: Don't use pointer arithmetic. Use span instead (bounds.1).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(153): warning C26440: Function 'IteratorVector::operator*' can be declared 'noexcept' (f.6).
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\VectDinNewDelete.cpp(156): warning C26440: Function 'IteratorVector::operator++' can be declared 'noexcept' (f.6).

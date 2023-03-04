@@ -1,0 +1,2 @@
+C:\Users\Tudor\source\repos\VectorDinamicCPP\x64\Debug\VectorDinamicCPP.exe.lastcodeanalysissucceeded
+C:\Users\Tudor\source\repos\VectorDinamicCPP\VectorDinamicCPP\x64\Debug\NativeCodeAnalysis.read.1.tlog
