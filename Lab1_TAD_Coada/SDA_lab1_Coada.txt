@@ -1,0 +1,18 @@
+altfel daca comanda = 5
+	afiseaza "Elementele din coada sunt: "
+	ok <- c.vida()
+	cat timp ok = true executa
+		e <- c.element()
+		afisare e " "
+		c.sterge()
+		ok <- c.vida()
+	sfarsit cat timp
+	afiseaza rand nou
+sfarsit daca
+
+Complexitate:
+
+best case = average case = worst case = theta(n), n - numarul de elemente din coada
+
+
+		
